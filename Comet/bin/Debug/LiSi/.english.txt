@@ -1,0 +1,19 @@
+Invalid Option: 
+Invalid IP: 
+Minecraft Server Not Found On: 
+Invalid Version: 
+Argument Not Found: 
+Invalid Port Range: 
+Invalid Port: 
+Invalid Range: 
+Player Not Found: 
+Not Found On 'svspoof' Folder: 
+Kicking Player: 
+Server Found: 
+Player Found: 
+Server Starting On: 
+Packet Sent To: 
+Admin Found: 
+Connection Confirmed For: 
+Error Code: 
+Empty Minecraft Server: 

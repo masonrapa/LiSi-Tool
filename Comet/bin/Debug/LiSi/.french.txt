@@ -1,0 +1,19 @@
+Option non valide:
+IP non valide:
+Serveur Minecraft introuvable sur:
+Version non valide:
+Argument introuvable:
+Range De Ports Invalide:
+Port non valide:
+Range Invalide:
+Joueur non trouvé:
+Introuvable sur le dossier 'svspoof':
+Ejection Du Joueur:
+Serveur trouvé:
+Joueur trouvé:
+Le Serveur Demarre
+Paquet envoyé à:
+Admin trouvé:
+Connexion confirmée pour:
+Code d'erreur:
+Pas De Serveur Minecraft Trouvé:

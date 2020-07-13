@@ -1,0 +1,19 @@
+Opzione non valida: 
+IP non valido: 
+Server Minecraft non trovato su: 
+Versione non valida: 
+Argomento non trovato: 
+Intervallo di porte non valido: 
+Porta non valida: 
+Intervallo non valido: 
+Giocatore non trovato: 
+Non trovato nella cartella 'svspoof': 
+Giocatore Cacciato: 
+Server trovato: 
+Giocatore trovato: 
+Server che inizia il: 
+Pacchetto inviato a: 
+Admin trovato: 
+Connessione confermata per: 
+Codice di errore: 
+Server Minecraft vuoto: 

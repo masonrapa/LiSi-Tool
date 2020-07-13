@@ -1,0 +1,231 @@
+[02:48:26] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[02:48:26] [Server thread/INFO]: Loading properties
+[02:48:26] [Server thread/INFO]: Default game type: ADVENTURE
+[02:48:27] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[02:48:27] [Server thread/INFO]: Debug logging is disabled
+[02:48:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:48:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:48:27] [Server thread/INFO]: Generating keypair
+[02:48:27] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:666
+[02:48:27] [Server thread/INFO]: Using default channel type
+[02:48:30] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[02:48:30] [Server thread/INFO]: [RageLobby] Loading RageLobby vAlpha 0.1
+[02:48:30] [Server thread/INFO]: [Effect Library] Loading EffectLib v5.0
+[02:48:30] [Server thread/INFO]: [ObsiShop] Loading ObsiShop v0.1
+[02:48:30] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[02:48:30] [Server thread/INFO]: [Skript] Loading Skript v2.2-SNAPSHOT
+[02:48:30] [Server thread/INFO]: [WildSkript] Loading WildSkript v1.8
+[02:48:30] [Server thread/INFO]: [skDragon] Loading skDragon v0.15
+[02:48:30] [Server thread/INFO]: [skRayFall] Loading skRayFall v1.9.5
+[02:48:30] [Server thread/INFO]: [SkQuery] Loading SkQuery v3.22.1
+[02:48:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:48:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:48:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:48:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:48:30] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[02:48:30] [Server thread/INFO]: Preparing level "world"
+[02:48:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[02:48:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:48:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:48:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:48:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:48:31] [Server thread/INFO]: View Distance: 10
+[02:48:31] [Server thread/INFO]: Mob Spawn Range: 4
+[02:48:31] [Server thread/INFO]: Anti X-Ray: true
+[02:48:31] [Server thread/INFO]: 	Engine Mode: 1
+[02:48:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[02:48:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[02:48:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[02:48:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:48:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:48:31] [Server thread/INFO]: Random Lighting Updates: false
+[02:48:31] [Server thread/INFO]: Max TNT Explosions: 100
+[02:48:31] [Server thread/INFO]: Structure Info Saving: true
+[02:48:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[02:48:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:48:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[02:48:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:48:31] [Server thread/INFO]: Max Entity Collisions: 8
+[02:48:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[02:48:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[02:48:31] [Server thread/INFO]: Clear tick list: false
+[02:48:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:48:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[02:48:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:48:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:48:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:48:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:48:31] [Server thread/INFO]: View Distance: 10
+[02:48:31] [Server thread/INFO]: Mob Spawn Range: 4
+[02:48:31] [Server thread/INFO]: Anti X-Ray: true
+[02:48:31] [Server thread/INFO]: 	Engine Mode: 1
+[02:48:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[02:48:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[02:48:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[02:48:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:48:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:48:31] [Server thread/INFO]: Random Lighting Updates: false
+[02:48:31] [Server thread/INFO]: Max TNT Explosions: 100
+[02:48:31] [Server thread/INFO]: Structure Info Saving: true
+[02:48:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[02:48:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:48:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[02:48:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:48:31] [Server thread/INFO]: Max Entity Collisions: 8
+[02:48:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[02:48:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[02:48:31] [Server thread/INFO]: Clear tick list: false
+[02:48:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:48:31] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[02:48:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:48:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:48:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:48:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:48:31] [Server thread/INFO]: View Distance: 10
+[02:48:31] [Server thread/INFO]: Mob Spawn Range: 4
+[02:48:31] [Server thread/INFO]: Anti X-Ray: true
+[02:48:31] [Server thread/INFO]: 	Engine Mode: 1
+[02:48:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[02:48:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[02:48:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[02:48:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:48:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:48:31] [Server thread/INFO]: Random Lighting Updates: false
+[02:48:31] [Server thread/INFO]: Max TNT Explosions: 100
+[02:48:31] [Server thread/INFO]: Structure Info Saving: true
+[02:48:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[02:48:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:48:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[02:48:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:48:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:48:31] [Server thread/INFO]: Max Entity Collisions: 8
+[02:48:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[02:48:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[02:48:31] [Server thread/INFO]: Clear tick list: false
+[02:48:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:48:31] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4546708315346121745)
+[02:48:32] [Server thread/INFO]: Preparing spawn area: 42%
+[02:48:32] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4546708315346121745)
+[02:48:33] [Server thread/INFO]: Preparing spawn area: 83%
+[02:48:34] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4546708315346121745)
+[02:48:34] [Server thread/INFO]: [RageLobby] Enabling RageLobby vAlpha 0.1
+[02:48:34] [Server thread/INFO]: [0;31;1m[21m[Plugin] [0;32;1mMason created me![m
+[02:48:34] [Server thread/INFO]: [Effect Library] Enabling EffectLib v5.0
+[02:48:34] [Server thread/INFO]: [ObsiShop] Enabling ObsiShop v0.1
+[02:48:34] [Server thread/INFO]: [0;31;1m[21m[Plugin] [0;32;1mMason created me![m
+[02:48:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[02:48:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:48:35] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[02:48:35] [Server thread/INFO]: [Skript] Enabling Skript v2.2-SNAPSHOT
+[02:48:36] [Server thread/INFO]: [Skript] Loaded a total of 11504 english aliases
+[02:48:36] [Server thread/WARN]: [Skript] There are no aliases defined for the following ids: 165, 166, 167, 168, 169, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 409, 410, 411, 412, 413, 414, 415, 416, 423, 424, 425, 427, 428, 429, 430, 431
+[02:48:36] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[02:48:36] [Server thread/INFO]: [WildSkript] Enabling WildSkript v1.8
+[02:48:36] [Server thread/INFO]: [WildSkript] skQuery hooked!
+[02:48:36] [Server thread/INFO]: [WildSkript] Classes, Events, Conditions, Effects, Expressions and EventValues have been registered!
+[02:48:36] [Server thread/INFO]: [WildSkript] Objects and Complex have been registered!
+[02:48:36] [Server thread/INFO]: [WildSkript] ~ Created by & © Dzikoysk ~
+[02:48:36] [Server thread/INFO]: [skDragon] Enabling skDragon v0.15
+[02:48:36] [Server thread/INFO]: §3[§bskDragon§3] §aPlugin has been Enabled
+[02:48:37] [Server thread/INFO]: [skRayFall] Enabling skRayFall v1.9.5
+[02:48:37] [Server thread/INFO]: [skRayFall] Yay! You are running skRayFall 1.9.5!
+[02:48:37] [Server thread/INFO]: [skRayFall] Nathan and Lewis <3 you.
+[02:48:37] [Server thread/INFO]: [skRayFall] Cooking Bacon...
+[02:48:37] [Server thread/INFO]: [skRayFall] Citizens not found! Sorry you cant make friends, but don't worry we will still be your friend <3
+[02:48:37] [Server thread/INFO]: [skRayFall] Got bacon for the EffectLib partical ninjas!
+[02:48:37] [Server thread/INFO]: [skRayFall] No Votifier Found! *Checks oven for finished bacon*
+[02:48:37] [Server thread/INFO]: [skRayFall] Enabling general 1.8/1.9/1.10 bacon!
+[02:48:37] [Server thread/INFO]: [skRayFall] Getting the extra special 1.8.4 - 1.8.8 bacon!
+[02:48:41] [Server thread/INFO]: [[0;36;22mskRayFall[m] [0;31;1mAn update for skRayFall is available![m
+[02:48:41] [Server thread/INFO]: [skRayFall] Bacon is ready!
+[02:48:41] [Server thread/INFO]: [SkQuery] Enabling SkQuery v3.22.1
+[02:48:41] [Server thread/INFO]: [skQuery] Snooping enabled from com.w00tmast3r.skquery.SkQuery
+[02:48:41] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[02:48:41] [Server thread/INFO]: [skQuery] Finished snooping of SkQuery with 170 classes.
+[02:48:41] [Server thread/INFO]: [skQuery] Beginning to process a total of 170 from SkQuery
+[02:48:41] [Server thread/INFO]: [skQuery] Out of 170 classes, 159 classes were loaded from SkQuery
+[02:48:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:48:41] [Server thread/INFO]: Done (10.612s)! For help, type "help" or "?"
+[02:48:41] [Server thread/INFO]: Starting remote control listener
+[02:48:41] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:676
+[02:48:41] [Craft Scheduler Thread - 0/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m Checking for the latest version of Skript...[m
+[02:48:41] [Server thread/INFO]: [Skript] Loading variables...
+[02:48:41] [Server thread/INFO]: [Skript] Loaded 4332 variables in 0.1 seconds
+[02:48:41] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m [0;31;22m[0;31;22mThere was an error checking for the latest version of Skript:[0;31;1m Server returned HTTP response code: 403 for URL: http://dev.bukkit.org/server-mods/skript/files.rss[m
+[02:48:41] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running a [3mbeta[m version of Skript, and no new [3mstable[m version is available. Please note that you have to update to newer beta versions manually![m
+[02:48:42] [Server thread/ERROR]: [Skript] can't understand this condition: 'clicked item is a paper' (Calculator.sk, line 59: if clicked item is a paper:')
+[02:48:42] [Server thread/ERROR]: [Skript] can't understand this condition: 'clicked item is blue stained clay' (Calculator.sk, line 102: if clicked item is blue stained clay:')
+[02:48:42] [Server thread/ERROR]: [Skript] can't understand this condition: 'clicked item is light blue stained clay' (Calculator.sk, line 107: if clicked item is light blue stained clay:')
+[02:48:42] [Server thread/ERROR]: [Skript] can't understand this condition: 'clicked item is green stained clay' (Calculator.sk, line 112: if clicked item is green stained clay:')
+[02:48:42] [Server thread/ERROR]: [Skript] can't understand this condition: 'clicked item is light green stained clay' (Calculator.sk, line 117: if clicked item is light green stained clay:')
+[02:48:42] [Server thread/ERROR]: [Skript] can't understand this condition: 'clicked item is an emerald' (Calculator.sk, line 122: if clicked item is an emerald:')
+[02:48:43] [Server thread/WARN]: [Skript] an entity cannot be saved, i.e. the contents of the variable {pul} will be lost when the server stops. (weapons.sk, line 114: set {pul} to attacker')
+[02:48:43] [Server thread/WARN]: [Skript] an entity cannot be saved, i.e. the contents of the variable {victima} will be lost when the server stops. (weapons.sk, line 174: set {victima} to victim')
+[02:48:43] [Server thread/WARN]: [Skript] a living entity cannot be saved, i.e. the contents of the variable {lol} will be lost when the server stops. (weapons.sk, line 211: set {lol} to shooter')
+[02:48:43] [Server thread/INFO]: [Skript] Loaded 5 scripts with a total of 17 triggers and 26 commands in 1.99 seconds
+[02:48:43] [Server thread/INFO]: [Skript] Finished loading.
+[02:48:43] [Craft Scheduler Thread - 3/INFO]: §3[§bskDragon§3] §aChecking for updates now!
+[02:48:43] [Craft Scheduler Thread - 3/INFO]: §3[§bskDragon§3] §av0.16 is available
+[02:48:43] [Craft Scheduler Thread - 3/INFO]: §3[§bskDragon§3] §aUpdated to 1.15, Happy Holidays!
+[02:48:43] [Craft Scheduler Thread - 3/INFO]: §3[§bskDragon§3] §a>> https://forums.skunity.com/resources/skdragon-emotes-particles.20/
+[02:48:43] [Craft Scheduler Thread - 3/INFO]: §3[§bskDragon§3] §a>> https://www.spigotmc.org/resources/skript-addon-skdragon-v0-13-1-beta-free-emotes-particles-great-eula-perks.24173/
+[02:50:36] [Thread-12/INFO]: UUID of player masonrapa is 4fcbc308-9d37-3984-8db2-1fa3860ac788
+[02:50:36] [Server thread/INFO]: Set masonrapa's game mode to Adventure Mode
+[02:50:36] [Server thread/INFO]: [Server] HELLO masonrapa
+[02:50:36] [Server thread/INFO]: Teleported masonrapa to 1.5, 87.0, 0.5
+[02:50:36] [Server thread/INFO]: Given Speed (ID 1) * 1 to masonrapa for 99999 seconds
+[02:50:36] [Server thread/INFO]: masonrapa[/169.254.63.142:59702] logged in with entity id 355 at ([world]1.5, 87.0, 0.5)
+[02:50:40] [Server thread/INFO]: masonrapa issued server command: /rcon
+[02:51:03] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:09] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:51:19] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1

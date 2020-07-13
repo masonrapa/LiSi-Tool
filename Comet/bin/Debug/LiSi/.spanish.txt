@@ -1,0 +1,19 @@
+Opción Inválida: 
+IP Inválida: 
+Servidor de Minecraft No Encontrado En: 
+Versión Inválida: 
+Argumento No Encontrado: 
+Rango de Puertos Inválido: 
+Puerto Inválido: 
+Rango de IP Inválido: 
+Jugador No Encontrado: 
+No Encontrado en la Carpeta 'svspoof': 
+Expulsando Jugador: 
+Servidor Encontrado: 
+Jugador Encontrado: 
+Servidor Iniciando En: 
+Paquete Enviado A: 
+Administrador Encontrado: 
+Conexión Confirmada Para: 
+Error de Código: 
+Servidor de Minecraft Vacio: 

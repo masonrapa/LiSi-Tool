@@ -1,0 +1,6 @@
+{
+    "parent": "pixel/cosmetics/CustomShield",
+    "textures": {
+        "SIDE": "blocks/sides","FRONT": "blocks/sides","BACK": "blocks/sides"
+    }
+}

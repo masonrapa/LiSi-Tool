@@ -1,0 +1,4 @@
+#
+#Wed May 27 16:05:08 CEST 2020
+LinkedWorlds=
+ServerName=mc.survivaldub.com

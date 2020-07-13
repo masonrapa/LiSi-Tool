@@ -1,0 +1,19 @@
+Ungültige Option: 
+Ungültige IP: 
+Minecraft Server nicht gefunden am: 
+Ungültige Version: 
+Argument nicht gefunden: 
+Ungültiger Portbereich: 
+Ungültiger Port: 
+Ungültiger Bereich: 
+Spieler nicht gefunden: 
+Nicht im Ordner 'svspoof' gefunden: 
+Kicking Player: 
+Server gefunden: 
+Spieler gefunden: 
+Server startet am: 
+Paket gesendet an: 
+Admin gefunden: 
+Verbindung bestätigt für: 
+Fehlercode: 
+Leerer Minecraft-Server: 

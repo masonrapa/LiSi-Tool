@@ -1,0 +1,286 @@
+[18:05:26] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[18:05:26] [Server thread/INFO]: Loading properties
+[18:05:26] [Server thread/INFO]: Default game type: ADVENTURE
+[18:05:26] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[18:05:26] [Server thread/INFO]: Debug logging is disabled
+[18:05:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:05:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:05:26] [Server thread/INFO]: Generating keypair
+[18:05:27] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:666
+[18:05:27] [Server thread/INFO]: Using default channel type
+[18:05:30] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:05:30] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
+[18:05:30] [Server thread/INFO]: [PingAPI] Loading PingAPI v1.3.3
+[18:05:30] [Server thread/INFO]: [FakePlayers] Loading FakePlayers v1.2.0
+[18:05:30] [Server thread/INFO]: [Skript] Loading Skript v2.2-SNAPSHOT
+[18:05:30] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.4.8
+[18:05:30] [Server thread/INFO]: [WildSkript] Loading WildSkript v1.8
+[18:05:30] [Server thread/INFO]: [SkAction] Loading SkAction v2.0
+[18:05:30] [Server thread/INFO]: [skDragon] Loading skDragon v0.15
+[18:05:30] [Server thread/INFO]: [skRayFall] Loading skRayFall v1.9.5
+[18:05:30] [Server thread/INFO]: [SkQuery] Loading SkQuery v3.22.1
+[18:05:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:05:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:05:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:05:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:05:30] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:05:30] [Server thread/INFO]: Preparing level "world"
+[18:05:30] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:05:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:05:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:05:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:05:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:05:30] [Server thread/INFO]: View Distance: 10
+[18:05:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:05:30] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:05:30] [Server thread/INFO]: Clear tick list: false
+[18:05:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:05:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:05:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:05:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:05:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:05:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:05:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:05:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:05:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:05:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:05:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:05:30] [Server thread/INFO]: Max TNT Explosions: 100
+[18:05:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:05:30] [Server thread/INFO]: Random Lighting Updates: false
+[18:05:30] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:05:30] [Server thread/INFO]: Structure Info Saving: true
+[18:05:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:05:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:05:30] [Server thread/INFO]: Max Entity Collisions: 8
+[18:05:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:05:30] [Server thread/INFO]: Mob Spawn Range: 4
+[18:05:30] [Server thread/INFO]: Anti X-Ray: true
+[18:05:30] [Server thread/INFO]: 	Engine Mode: 1
+[18:05:30] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:05:30] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:05:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:05:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:05:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:05:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:05:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:05:31] [Server thread/INFO]: View Distance: 10
+[18:05:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:05:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:05:31] [Server thread/INFO]: Clear tick list: false
+[18:05:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:05:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:05:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:05:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Max TNT Explosions: 100
+[18:05:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:05:31] [Server thread/INFO]: Random Lighting Updates: false
+[18:05:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:05:31] [Server thread/INFO]: Structure Info Saving: true
+[18:05:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:05:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:05:31] [Server thread/INFO]: Max Entity Collisions: 8
+[18:05:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:05:31] [Server thread/INFO]: Mob Spawn Range: 4
+[18:05:31] [Server thread/INFO]: Anti X-Ray: true
+[18:05:31] [Server thread/INFO]: 	Engine Mode: 1
+[18:05:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:05:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:05:31] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:05:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:05:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:05:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:05:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:05:31] [Server thread/INFO]: View Distance: 10
+[18:05:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:05:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:05:31] [Server thread/INFO]: Clear tick list: false
+[18:05:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:05:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:05:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:05:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:05:31] [Server thread/INFO]: Max TNT Explosions: 100
+[18:05:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:05:31] [Server thread/INFO]: Random Lighting Updates: false
+[18:05:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:05:31] [Server thread/INFO]: Structure Info Saving: true
+[18:05:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:05:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:05:31] [Server thread/INFO]: Max Entity Collisions: 8
+[18:05:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:05:31] [Server thread/INFO]: Mob Spawn Range: 4
+[18:05:31] [Server thread/INFO]: Anti X-Ray: true
+[18:05:31] [Server thread/INFO]: 	Engine Mode: 1
+[18:05:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:05:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:05:31] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[18:05:31] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4546708315346121745)
+[18:05:32] [Server thread/INFO]: Preparing spawn area: 65%
+[18:05:33] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4546708315346121745)
+[18:05:33] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0
+[18:05:33] [Server thread/INFO]: §c===================================
+[18:05:33] [Server thread/INFO]: §c===================================
+[18:05:33] [Server thread/INFO]: §aCheck out my other Plugins!
+[18:05:33] [Server thread/INFO]: §aI also sell a BedWars §aPlugin!
+[18:05:33] [Server thread/INFO]: §c===================================
+[18:05:33] [Server thread/INFO]: §c===================================
+[18:05:33] [Server thread/INFO]: [PingAPI] Enabling PingAPI v1.3.3
+[18:05:33] [Server thread/INFO]: [PingAPI] Successfully hooked into CraftBukkit v1_8_R3
+[18:05:33] [Server thread/INFO]: [FakePlayers] Enabling FakePlayers v1.2.0
+[18:05:33] [Server thread/INFO]: [Skript] Enabling Skript v2.2-SNAPSHOT
+[18:05:35] [Server thread/INFO]: [Skript] Loaded a total of 11504 english aliases
+[18:05:35] [Server thread/WARN]: [Skript] There are no aliases defined for the following ids: 165, 166, 167, 168, 169, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 409, 410, 411, 412, 413, 414, 415, 416, 423, 424, 425, 427, 428, 429, 430, 431
+[18:05:35] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[18:05:35] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.4.8
+[18:05:35] [Server thread/ERROR]: [ServerListPlus] ProtocolLib IS NOT INSTALLED! Most features will NOT work!
+[18:05:35] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[18:05:35] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[18:05:35] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[18:05:35] [Server thread/ERROR]: [ServerListPlus] ProtocolLib IS NOT INSTALLED! Most features will NOT work!
+[18:05:35] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[18:05:35] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
+[18:05:35] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.4.8 enabled.
+[18:05:35] [Server thread/INFO]: [WildSkript] Enabling WildSkript v1.8
+[18:05:35] [Server thread/INFO]: [WildSkript] skQuery hooked!
+[18:05:35] [Server thread/INFO]: [WildSkript] Classes, Events, Conditions, Effects, Expressions and EventValues have been registered!
+[18:05:35] [Server thread/INFO]: [WildSkript] Objects and Complex have been registered!
+[18:05:35] [Server thread/INFO]: [WildSkript] ~ Created by & © Dzikoysk ~
+[18:05:35] [Server thread/INFO]: [SkAction] Enabling SkAction v2.0
+[18:05:35] [Server thread/INFO]: [skDragon] Enabling skDragon v0.15
+[18:05:35] [Server thread/INFO]: §3[§bskDragon§3] §aPlugin has been Enabled
+[18:05:36] [Server thread/INFO]: [skRayFall] Enabling skRayFall v1.9.5
+[18:05:36] [Server thread/INFO]: [skRayFall] Yay! You are running skRayFall 1.9.5!
+[18:05:36] [Server thread/INFO]: [skRayFall] Nathan and Lewis <3 you.
+[18:05:36] [Server thread/INFO]: [skRayFall] Cooking Bacon...
+[18:05:36] [Server thread/INFO]: [skRayFall] Citizens not found! Sorry you cant make friends, but don't worry we will still be your friend <3
+[18:05:36] [Server thread/INFO]: [skRayFall] Got bacon for the EffectLib partical ninjas!
+[18:05:36] [Server thread/INFO]: [skRayFall] No Votifier Found! *Checks oven for finished bacon*
+[18:05:36] [Server thread/INFO]: [skRayFall] Enabling general 1.8/1.9/1.10 bacon!
+[18:05:36] [Server thread/INFO]: [skRayFall] Getting the extra special 1.8.4 - 1.8.8 bacon!
+[18:05:40] [Server thread/INFO]: [[0;36;22mskRayFall[m] [0;31;1mAn update for skRayFall is available![m
+[18:05:40] [Server thread/INFO]: [skRayFall] Bacon is ready!
+[18:05:40] [Server thread/INFO]: [SkQuery] Enabling SkQuery v3.22.1
+[18:05:40] [Server thread/INFO]: [skQuery] Snooping enabled from com.w00tmast3r.skquery.SkQuery
+[18:05:40] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[18:05:41] [Server thread/INFO]: [skQuery] Finished snooping of SkQuery with 170 classes.
+[18:05:41] [Server thread/INFO]: [skQuery] Beginning to process a total of 170 from SkQuery
+[18:05:41] [Server thread/INFO]: [skQuery] Out of 170 classes, 159 classes were loaded from SkQuery
+[18:05:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:05:41] [Server thread/INFO]: Done (10.447s)! For help, type "help" or "?"
+[18:05:41] [Server thread/INFO]: Starting remote control listener
+[18:05:41] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[18:05:41] [Craft Scheduler Thread - 0/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m Checking for the latest version of Skript...[m
+[18:05:41] [Server thread/INFO]: [Skript] Loading variables...
+[18:05:41] [Server thread/INFO]: [Skript] Loaded 4459 variables in 0.1 seconds
+[18:05:41] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m [0;31;22m[0;31;22mThere was an error checking for the latest version of Skript:[0;31;1m Server returned HTTP response code: 403 for URL: http://dev.bukkit.org/server-mods/skript/files.rss[m
+[18:05:41] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running a [3mbeta[m version of Skript, and no new [3mstable[m version is available. Please note that you have to update to newer beta versions manually![m
+[18:05:41] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[18:05:41] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 3 triggers and 2 commands in 0.26 seconds
+[18:05:41] [Server thread/INFO]: [Skript] Finished loading.
+[18:05:41] [Craft Scheduler Thread - 4/INFO]: §3[§bskDragon§3] §aChecking for updates now!
+[18:05:41] [Craft Scheduler Thread - 4/INFO]: §3[§bskDragon§3] §av0.16 is available
+[18:05:41] [Craft Scheduler Thread - 4/INFO]: §3[§bskDragon§3] §aUpdated to 1.15, Happy Holidays!
+[18:05:41] [Craft Scheduler Thread - 4/INFO]: §3[§bskDragon§3] §a>> https://forums.skunity.com/resources/skdragon-emotes-particles.20/
+[18:05:41] [Craft Scheduler Thread - 4/INFO]: §3[§bskDragon§3] §a>> https://www.spigotmc.org/resources/skript-addon-skdragon-v0-13-1-beta-free-emotes-particles-great-eula-perks.24173/
+[18:05:52] [Thread-12/INFO]: UUID of player Abascal_CHAN is 82a5738d-3f11-3e6a-adb0-298b96323b6a
+[18:05:52] [Server thread/INFO]: Teleported Abascal_CHAN to 1.5, 111.0, 1.5
+[18:05:52] [Server thread/INFO]: [m
+[18:05:52] [Server thread/INFO]: [0;31;1mIP of [0;32;1mAbascal_CHAN: [0;34;1m192.168.56.1[m
+[18:05:52] [Server thread/INFO]: Abascal_CHAN[/192.168.56.1:56747] logged in with entity id 24 at ([world]1.5, 111.0, 1.5)
+[18:05:52] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:55] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:55] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:56] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:56] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:56] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:57] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:57] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:57] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:57] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:57] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:57] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:58] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:58] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:58] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:59] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:59] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:59] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:59] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:05:59] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:00] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:00] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:00] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:00] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:00] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:00] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:01] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:01] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:01] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:02] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:02] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:03] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:03] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:03] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:03] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:03] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:03] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:03] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:03] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:04] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:04] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:04] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:05] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:05] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:05] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:05] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:05] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:05] [Server thread/INFO]: Teleported Abascal_CHAN to 0.5, 101.0, 0.5
+[18:06:10] [Server thread/INFO]: Abascal_CHAN issued server command: /l penepene
+[18:06:10] [Server thread/INFO]: Abascal_CHAN [82a5738d-3f11-3e6a-adb0-298b96323b6a]: /l penepene
+[18:06:10] [Server thread/INFO]: [m
+[18:06:10] [Server thread/INFO]: [m
+[18:06:10] [Server thread/INFO]: [m
+[18:06:10] [Server thread/INFO]: [m
+[18:06:10] [Server thread/INFO]: [m
+[18:06:10] [Server thread/INFO]: [m
+[18:06:10] [Server thread/INFO]: [m
+[18:06:10] [Server thread/INFO]: [0;32;1mThe Password Of [0;35;22mAbascal_CHAN [0;32;1mis [0;35;1mpenepene[m
+[18:06:10] [Server thread/INFO]: [m
+[18:06:10] [Server thread/INFO]: [m
+[18:06:10] [Server thread/INFO]: Abascal_CHAN lost connection: §aPor favor, entra de nuevo utilizando la §2IP: 
+ §eomega§bcraft§7.cl
+[18:06:11] [Server thread/WARN]: handleDisconnection() called twice
+[18:06:17] [Server thread/WARN]: handleDisconnection() called twice
+[18:07:05] [Server thread/INFO]: Stopping the server
+[18:07:05] [Server thread/INFO]: Stopping server
+[18:07:05] [Server thread/INFO]: [SkQuery] Disabling SkQuery v3.22.1
+[18:07:05] [Server thread/INFO]: [skRayFall] Disabling skRayFall v1.9.5
+[18:07:05] [Server thread/INFO]: [skRayFall] Bacon has been eaten. Make some more soon!
+[18:07:05] [Server thread/INFO]: [skDragon] Disabling skDragon v0.15
+[18:07:05] [Server thread/INFO]: [SkAction] Disabling SkAction v2.0
+[18:07:05] [Server thread/INFO]: [WildSkript] Disabling WildSkript v1.8
+[18:07:05] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.4.8
+[18:07:05] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.4.8 disabled.
+[18:07:05] [Server thread/INFO]: [Skript] Disabling Skript v2.2-SNAPSHOT
+[18:07:05] [Server thread/INFO]: [FakePlayers] Disabling FakePlayers v1.2.0
+[18:07:05] [Server thread/INFO]: [PingAPI] Disabling PingAPI v1.3.3
+[18:07:05] [Server thread/INFO]: [DisableJoinMessage] Disabling DisableJoinMessage v1.0
+[18:07:05] [Server thread/INFO]: Saving players
+[18:07:05] [Server thread/INFO]: Saving worlds
+[18:07:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:07:05] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[18:07:05] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

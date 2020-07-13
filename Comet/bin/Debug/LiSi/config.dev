@@ -1,0 +1,5 @@
+protected-nickname: MasonGL
+kickall-cooldown: 1
+mysql-fail-message: Access denied
+operative-system: windows
+history: LiSi/history.txt
